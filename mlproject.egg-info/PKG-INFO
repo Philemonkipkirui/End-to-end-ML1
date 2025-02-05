@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: mlproject
+Version: 0.0.1
+Author: phill
+Author-email: philemonsang1532@gmail.com
+Requires-Dist: pandas==1.1.5
+Requires-Dist: numpy==1.19.5
+Requires-Dist: seaborn==0.11.1
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
