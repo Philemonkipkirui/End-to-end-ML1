@@ -1,0 +1,9 @@
+[2025-03-25 22:34:30,760] 26 root - INFO - Entered the data ingestion method
+[2025-03-25 22:34:30,793] 29 root - INFO -Read the dataset as dataframe
+[2025-03-25 22:34:30,840] 34 root - INFO -Train tst split initiated 
+[2025-03-25 22:34:30,887] 40 root - INFO -ingestion of the data is completed
+[2025-03-25 22:34:30,927] 62 root - INFO - Read train data from csv completed
+[2025-03-25 22:34:30,927] 63 root - INFO -obtaining preprocessing object
+[2025-03-25 22:34:30,927] 42 root - INFO -Numerical column scaling completed
+[2025-03-25 22:34:30,927] 43 root - INFO -catgorical_column encoding completed
+[2025-03-25 22:34:30,930] 75 root - INFO -Applying preprocessing object on training datarfame and testing dataframe
