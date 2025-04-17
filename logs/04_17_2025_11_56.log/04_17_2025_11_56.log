@@ -1,0 +1,4 @@
+[2025-04-17 11:21:58,097] 97 werkzeug - WARNING - * Debugger is active!
+[2025-04-17 11:21:58,105] 97 werkzeug - INFO - * Debugger PIN: 342-626-595
+[2025-04-17 11:22:02,454] 97 werkzeug - INFO -127.0.0.1 - - [17/Apr/2025 11:22:02] "GET / HTTP/1.1" 200 -
+[2025-04-17 11:30:03,479] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\ADMIN\\Desktop\\DS\\ML1\\src\\logger.py', reloading

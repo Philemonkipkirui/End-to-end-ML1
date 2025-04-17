@@ -1,0 +1,8 @@
+[2025-04-17 10:48:34,942] 97 werkzeug - WARNING - * Debugger is active!
+[2025-04-17 10:48:34,948] 97 werkzeug - INFO - * Debugger PIN: 342-626-595
+[2025-04-17 10:48:37,221] 97 werkzeug - INFO -127.0.0.1 - - [17/Apr/2025 10:48:37] "GET / HTTP/1.1" 200 -
+[2025-04-17 10:48:37,281] 97 werkzeug - INFO -127.0.0.1 - - [17/Apr/2025 10:48:37] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+[2025-04-17 10:53:14,144] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\ADMIN\\Desktop\\DS\\ML1\\app.py', reloading
+[2025-04-17 10:53:35,167] 97 werkzeug - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+[2025-04-17 10:53:35,168] 97 werkzeug - INFO -[33mPress CTRL+C to quit[0m

@@ -1,15 +1,15 @@
 from flask import Flask, request, render_template
-import numpy as np
-import pandas as pd
-import os
-import sys
+#import numpy as np
+#import pandas as pd
+#import os
+##import sys
 from src.logger import logging
-from src.exception import CustomException
+#from src.exception import CustomException
 
 
 #from sklearn.preprocessing import StandardScaler
 
-from src.pipeline import predict_pipeline
+#from src.pipeline import predict_pipeline
 from src.pipeline.predict_pipeline import CustomData, PredictPipeline
 
 
@@ -17,6 +17,7 @@ app =  Flask(__name__)
 
 @app.route('/')
 def index():
+    #return "Home Page"
     return render_template('home.html')
 
 @app.route('/predictdata', methods = ['GET', 'POST'])
@@ -63,7 +64,7 @@ def predict_datapoint():
 
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port = 8000, debug = True)
+    app.run(host="127.0.0.1", port = 5000, debug = True)
         
  
 

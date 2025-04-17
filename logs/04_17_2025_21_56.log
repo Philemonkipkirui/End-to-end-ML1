@@ -1,0 +1,11 @@
+[2025-04-17 21:27:57,496] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-04-17 21:27:57,501] 97 werkzeug - INFO -  * Debugger PIN: 342-626-595
+[2025-04-17 21:28:01,337] 97 werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 21:28:01] "GET / HTTP/1.1" 200 -
+[2025-04-17 21:28:01,781] 97 werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 21:28:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-17 21:28:42,094] 52 root - INFO - Form data obtained from the user
+[2025-04-17 21:28:42,213] 55 root - INFO - Dataframe created from the user input data
+[2025-04-17 21:28:43,613] 97 werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 21:28:43] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2025-04-17 21:28:43,684] 97 werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 21:28:43] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2025-04-17 21:28:43,698] 97 werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 21:28:43] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2025-04-17 21:28:43,758] 97 werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 21:28:43] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=V0UcS79LK5yoAPTQ6t02 HTTP/1.1" 200 -
+[2025-04-17 21:53:49,510] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\Desktop\\DS\\ML1\\src\\pipeline\\predict_pipeline.py', reloading

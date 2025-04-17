@@ -1,0 +1,12 @@
+[2025-04-17 23:02:55,919] 23 root - INFO - Entered data ingestion method
+[2025-04-17 23:02:55,944] 26 root - INFO - Read dataset into dataframe
+[2025-04-17 23:02:55,978] 31 root - INFO - Train-test split initiated
+[2025-04-17 23:02:56,016] 36 root - INFO - Data ingestion completed
+[2025-04-17 23:02:56,059] 64 root - INFO -  Read train data from csv completed
+[2025-04-17 23:02:56,060] 65 root - INFO - obtaining preprocessing object
+[2025-04-17 23:02:56,060] 44 root - INFO - Numerical column scaling completed
+[2025-04-17 23:02:56,060] 45 root - INFO - catgorical_column encoding completed
+[2025-04-17 23:02:56,065] 77 root - INFO - Applying preprocessing object on training datarfame and testing dataframe
+[2025-04-17 23:02:56,116] 89 root - INFO - saved preprocessing object
+[2025-04-17 23:02:56,124] 38 root - INFO - Split training and test input data
+[2025-04-17 23:03:37,553] 100 root - INFO - Best model: Ridge with R2=0.770
