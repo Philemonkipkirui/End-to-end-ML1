@@ -1,0 +1,7 @@
+[2025-04-01 13:46:34,781] 97 werkzeug - WARNING - * Debugger is active!
+[2025-04-01 13:46:34,795] 97 werkzeug - INFO - * Debugger PIN: 986-245-659
+[2025-04-01 13:46:36,905] 97 werkzeug - INFO -127.0.0.1 - - [01/Apr/2025 13:46:36] "GET / HTTP/1.1" 200 -
+[2025-04-01 13:46:36,923] 97 werkzeug - INFO -127.0.0.1 - - [01/Apr/2025 13:46:36] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+[2025-04-01 13:47:31,606] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\ADMIN\\Desktop\\DS\\ML1\\app.py', reloading
+[2025-04-01 13:47:34,152] 97 werkzeug - WARNING - * Debugger is active!
+[2025-04-01 13:47:34,166] 97 werkzeug - INFO - * Debugger PIN: 986-245-659

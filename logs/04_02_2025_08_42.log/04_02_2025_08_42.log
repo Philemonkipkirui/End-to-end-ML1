@@ -1,0 +1,8 @@
+[2025-04-02 08:04:43,635] 97 werkzeug - WARNING - * Debugger is active!
+[2025-04-02 08:04:43,646] 97 werkzeug - INFO - * Debugger PIN: 986-245-659
+[2025-04-02 08:04:53,500] 51 root - INFO -Form data obtained from the user
+[2025-04-02 08:04:53,502] 54 root - INFO -Dataframe created from the user input data
+[2025-04-02 08:04:53,737] 97 werkzeug - INFO -127.0.0.1 - - [02/Apr/2025 08:04:53] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2025-04-02 08:04:53,763] 97 werkzeug - INFO -127.0.0.1 - - [02/Apr/2025 08:04:53] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-04-02 08:04:53,770] 97 werkzeug - INFO -127.0.0.1 - - [02/Apr/2025 08:04:53] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-04-02 08:04:53,779] 97 werkzeug - INFO -127.0.0.1 - - [02/Apr/2025 08:04:53] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=8Fx4c9wJqW3bTkXu86sR HTTP/1.1" 200 -

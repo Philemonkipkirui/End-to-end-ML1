@@ -1,0 +1,3 @@
+[2025-04-01 11:36:50,363] 97 werkzeug - WARNING - * Debugger is active!
+[2025-04-01 11:36:50,391] 97 werkzeug - INFO - * Debugger PIN: 986-245-659
+[2025-04-01 11:37:12,988] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\ADMIN\\Desktop\\DS\\ML1\\application.py', reloading

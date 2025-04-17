@@ -1,0 +1,9 @@
+[2025-04-01 14:09:29,946] 97 werkzeug - WARNING - * Debugger is active!
+[2025-04-01 14:09:29,957] 97 werkzeug - INFO - * Debugger PIN: 986-245-659
+[2025-04-01 14:09:49,139] 97 werkzeug - INFO -127.0.0.1 - - [01/Apr/2025 14:09:49] "GET / HTTP/1.1" 200 -
+[2025-04-01 14:09:49,240] 97 werkzeug - INFO -127.0.0.1 - - [01/Apr/2025 14:09:49] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+[2025-04-01 14:10:44,576] 97 werkzeug - INFO -127.0.0.1 - - [01/Apr/2025 14:10:44] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2025-04-01 14:10:44,613] 97 werkzeug - INFO -127.0.0.1 - - [01/Apr/2025 14:10:44] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-04-01 14:10:44,623] 97 werkzeug - INFO -127.0.0.1 - - [01/Apr/2025 14:10:44] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-04-01 14:10:44,635] 97 werkzeug - INFO -127.0.0.1 - - [01/Apr/2025 14:10:44] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=yxLuCmS8yY71NxNCJAB9 HTTP/1.1" 200 -
+[2025-04-01 14:12:02,954] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\ADMIN\\Desktop\\DS\\ML1\\app.py', reloading

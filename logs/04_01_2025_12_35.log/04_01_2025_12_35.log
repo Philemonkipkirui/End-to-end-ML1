@@ -1,0 +1,10 @@
+[2025-04-01 12:01:36,130] 97 werkzeug - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.130.121.95:5000
+[2025-04-01 12:01:36,130] 97 werkzeug - INFO -[33mPress CTRL+C to quit[0m
+[2025-04-01 12:01:36,142] 97 werkzeug - INFO - * Restarting with stat
+[2025-04-01 12:04:21,293] 97 werkzeug - INFO - * Restarting with stat
+[2025-04-01 12:58:36,695] 97 werkzeug - WARNING - * Debugger is active!
+[2025-04-01 12:58:36,708] 97 werkzeug - INFO - * Debugger PIN: 986-245-659
+[2025-04-01 13:05:54,057] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\ADMIN\\Desktop\\DS\\ML1\\app.py', reloading

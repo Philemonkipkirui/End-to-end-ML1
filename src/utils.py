@@ -52,11 +52,11 @@ def evaluate_models(X_train, X_test, y_test, y_train, models, param):
                 except NotFittedError:
                     best_model.fit(X_train, y_train)
                     
-            # Use the fitted best_model for prediction
+
             y_train_predict = best_model.predict(X_train)
             y_test_predict = best_model.predict(X_test)
 
-            # Calculate R² scores
+
             train_model_score = r2_score(y_train, y_train_predict)
             test_model_score = r2_score(y_test, y_test_predict)
 
@@ -67,5 +67,11 @@ def evaluate_models(X_train, X_test, y_test, y_train, models, param):
       
    except Exception as e:
       raise CustomException(e, sys)
+def load_objects(file_path):
+    try:
+        with open(file_path, 'rb') as file_obj:
+            return dill.load(file_obj)
+    except Exception as e:
+        raise CustomException(e, sys)   
 
-
+ 
